@@ -6,9 +6,9 @@ This project is made according to the [#30DaysMasterFlutter challenge](https://w
 
 ## [Day 1: Setting up the Environment](https://www.appwriters.dev/30days/flutter/day1)
 
-- [ ] Install Flutter and Dart
-- [ ] Configure your IDE for Flutter development
-- [ ] Run your first Flutter app
+- [X] Install Flutter and Dart
+- [X] Configure your IDE for Flutter development
+- [X] Run your first Flutter app
 
 ## [Day 2: First Dart App](https://www.appwriters.dev/30days/flutter/day2)
 

@@ -17,10 +17,10 @@ This project is made according to the [#30DaysMasterFlutter challenge](https://w
 - [X] Use Dart to solve simple problems
 
 ## [Day 3: Variables, Data Types, Operators and Expressions](https://www.appwriters.dev/30days/flutter/day3)
-- [ ] Learn about the different data types in Dart
-- [ ] Understand how to declare and initialize variables
-- [ ] Learn about the different operators in Dart
-- [ ] Understant how to use expressions and statements
+- [W] Learn about the different data types in Dart
+- [W] Understand how to declare and initialize variables
+- [W] Learn about the different operators in Dart
+- [W] Understant how to use expressions and statements
 
 ## [Day 4: Dart Functions](https://www.appwriters.dev/30days/flutter/day4)
 - [ ] Learn about functions in Dart

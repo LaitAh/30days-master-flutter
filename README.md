@@ -12,9 +12,9 @@ This project is made according to the [#30DaysMasterFlutter challenge](https://w
 
 ## [Day 2: First Dart App](https://www.appwriters.dev/30days/flutter/day2)
 
-- [ ] Learn the basic syntax of Dart
-- [ ] Understand how to write and run Dart programs
-- [ ] Use Dart to solve simple problems
+- [X] Learn the basic syntax of Dart
+- [X] Understand how to write and run Dart programs
+- [X] Use Dart to solve simple problems
 
 ## [Day 3: Variables, Data Types, Operators and Expressions](https://www.appwriters.dev/30days/flutter/day3)
 - [ ] Learn about the different data types in Dart

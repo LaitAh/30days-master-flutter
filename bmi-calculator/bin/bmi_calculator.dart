@@ -13,14 +13,14 @@ void main(List<String> arguments) {
   name = stdin.readLineSync();
 
   // Weight
-  print('Nice to meet you $name, we will help you to calculate your BMI. First, what is your weight?');
+  print('Nice to meet you $name, we will help you to calculate your BMI. First, what is your weight (in kg)?');
   String? weightInput = stdin.readLineSync();
 
   weight = isChecked(weightInput);
   weight = isApproved(weight);
 
   // Height
-  print('Your weight is $weight. Now, we need your height:');
+  print('Your weight is $weight. Now, we need your height (in cm):');
   String? heightInput = stdin.readLineSync();
 
   height = isChecked(heightInput);

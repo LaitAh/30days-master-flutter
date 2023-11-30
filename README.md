@@ -23,9 +23,9 @@ This project is made according to the [#30DaysMasterFlutter challenge](https://w
 - [X] Understant how to use expressions and statements
 
 ## [Day 4: Dart Functions](https://www.appwriters.dev/30days/flutter/day4)
-- [ ] Learn about functions in Dart
-- [ ] Understand function parameters and return types
-- [ ] Use functions in your Flutter app
+- [X] Learn about functions in Dart
+- [X] Understand function parameters and return types
+- [X] Use functions in your Flutter app
 
 ## [Day 5: Asynchronous Programming](https://www.appwriters.dev/30days/flutter/day5)
 - [ ] Understand the basics of asynchronous programming in Dart
